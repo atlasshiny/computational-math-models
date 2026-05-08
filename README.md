@@ -9,7 +9,7 @@ validation, and extensions.
 ## Models
 | Model | Domain | Language | Methods | LaTeX Write-up | Derivations |
 |-------|--------|----------|---------|----------------|------------|
-| SEIRD Epidemic Model | Epidemiology | MATLAB | ODE | [] | [] |
+| SEIRD Epidemic Model | Epidemiology | MATLAB | ODE |  |  |
 
 ## Structure
 Each model directory contains:
