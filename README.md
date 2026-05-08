@@ -9,7 +9,7 @@ validation, and extensions.
 ## Models
 | Model | Domain | Language | Methods |
 |-------|--------|----------|---------|
-| SEIRD Epidemic Model | Epidemiology | MATLAB + Python | ODE, Monte Carlo |
+| SEIRD Epidemic Model | Epidemiology | MATLAB + Python | ODE |
 
 ## Structure
 Each model directory contains:
