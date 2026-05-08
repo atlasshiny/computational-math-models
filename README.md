@@ -16,3 +16,4 @@ Each model directory contains:
 - Source code (`.m` or `.py`)
 - LaTeX write-up (`.pdf`)
 - Figures and validation results
+- Derivations from first principles
