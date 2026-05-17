@@ -25,3 +25,5 @@ xlabel('Time (days)')
 ylabel('Population')
 grid("on")
 title('SEIR Model')
+% Save the plot as PNG
+saveas(gcf, 'seird_plot.png')
